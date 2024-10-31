@@ -7,6 +7,9 @@ Excel Version: Microsoft Excel (latest version)
 Excel File: A financial report spreadsheet
 
 Do some research on what questions you should ask to make the problem clear. Create a file with the URL of the site you looked at and the questions that you should ask the end user. Commit it.
+Research:
+
+
 Q: is "Show formulas" enabled in the formula tab? 
 Q: Does excel think the formula is text only and not a formula?
 

@@ -1,7 +1,11 @@
 Question 1) B)
 Find a few sites with basic Excel spreadsheet troubleshooting. Create a  file with this info. Commit it.
 Research:
-
+Sometimes Excel can have a myriad of problems that requries troubleshooting. Here's some possible solutions for whenever
+you have a corrupted excel file to help you out. 1) you can open the file in another format or another application. this
+can be done by saving it to a different extension in properties. 2) move/copy excel data into new workbook. 3) set 
+the calculation open to manual, 4) MS Excel 'open and repair' utility. Lastly 5) resolve excel file error with 
+excel repair software.
 
 Sources: 
 https://support.microsoft.com/en-us/office/excel-not-responding-hangs-freezes-or-stops-working-37e7d3c9-9e84-40bf-a805-4ca6853a1ff4

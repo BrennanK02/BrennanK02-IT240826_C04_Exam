@@ -1,6 +1,7 @@
 Support Case: User Needs to Enable Dark Mode
 
-Scenario: A user wants to enable Dark Mode on their Windows 11 computer for better visibility and to reduce eye strain, but they are unsure how to change this setting.
+Scenario: A user wants to enable Dark Mode on their Windows 11 computer for better visibility and to reduce eye strain,
+but they are unsure how to change this setting.
 
 User Information:
 Device: Desktop (Windows 11)
@@ -9,7 +10,10 @@ User’s preference: Dark Mode
 
 Question 2) A): Do some research on what questions you should ask to make the problem clear. Create a file with the URL of the site you looked at and the questions that you should ask the end user. Commit it.
 Research:
-
+Is the setting available in settings? going from light mode to dark mode is an easy way to give your eyes a break especially
+when over exposure to monitors can cause damage to your eyes over a long period of time. The best to do so is by turning on 
+the night light feature which the source from microsoft gives a step by step guide on how to do so. This will also affect every 
+aspect of the computer so it should help minimize the strain.
 
 Q: is the "night light feature" turned on?
 Q: is it exclusive to the internet browser? depending your internet browser choice there might be some restrictions. what is your internet browser?

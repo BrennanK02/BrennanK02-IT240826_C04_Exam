@@ -1,0 +1,8 @@
+Question 1) A)
+Problem: A user reports that the formulas in their Excel spreadsheet are not calculating. Instead of showing the result of the formula, the cells display the formula itself (e.g., =SUM(A1:A10)).
+
+Client specs: Device: Laptop (Windows 11)
+Excel Version: Microsoft Excel (latest version)
+Excel File: A financial report spreadsheet
+
+Do some research on what questions you should ask to make the problem clear. Create a file with the URL of the site you looked at and the questions that  that you should ask the end user. Commit it.

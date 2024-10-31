@@ -5,4 +5,8 @@ Client specs: Device: Laptop (Windows 11)
 Excel Version: Microsoft Excel (latest version)
 Excel File: A financial report spreadsheet
 
-Do some research on what questions you should ask to make the problem clear. Create a file with the URL of the site you looked at and the questions that  that you should ask the end user. Commit it.
+Do some research on what questions you should ask to make the problem clear. Create a file with the URL of the site you looked at and the questions that you should ask the end user. Commit it.
+Q: Have you accidently enabled "Show forumalas"? 
+Q: Does excel think you formula is text only and not a formula?
+
+Source: https://exceljet.net/articles/excel-shows-formula-not-result#:~:text=Cell%20format%20set%20to%20Text&text=You%20may%20need%20to%20enter,make%20Excel%20evaluate%20it%20properly.
